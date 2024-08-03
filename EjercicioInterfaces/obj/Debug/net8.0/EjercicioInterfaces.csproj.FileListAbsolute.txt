@@ -1,0 +1,15 @@
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.exe
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.deps.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\bin\Debug\net8.0\EjercicioInterfaces.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\refint\EjercicioInterfaces.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\EjercicioInterfaces.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejericicio-Interfaces\EjercicioInterfaces\obj\Debug\net8.0\ref\EjercicioInterfaces.dll
